@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+map.html
 <html lang="en">
 <head>
     <title>My City</title>
@@ -48,6 +48,8 @@ Execute the programs and publish them.
 </body>
 </html>
 
+home.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +67,7 @@ The interior is simply designed but comfortable, with a spacious living room whe
 My favorite part, however, is the large terrace, where I enjoy spending my evenings reading books or simply lying down to count the stars on a clear night. It is the perfect haven, a sanctuary that nurtures my growth and preserves our family's shared experiences. I love my home more than any other place in the world because it is where my heart is, a safe place where I always feel loved and valued.</p>
 </body>
 </html>
-
+temple.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
